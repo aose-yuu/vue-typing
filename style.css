@@ -63,3 +63,12 @@ body {
   outline: none;
   border: none;
 }
+
+.guageWrapper {
+  border: 1px solid gray;
+  height: 12px;
+}
+
+.guage {
+  height: 12px;
+}
